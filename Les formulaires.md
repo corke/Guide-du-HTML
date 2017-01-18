@@ -1,7 +1,7 @@
 #Formulaires
 #Disposition des champs :
-Pas de `<br/>` !
-Ex : 
+Pas de `<br/>` !  
+Ex :   
 `<label for="comment">Pour laisser un commentaire libre à propos d'O'clock, c'est par ici :</label>
 <textarea placeholder="" name="comment" rows="8" cols="40"></textarea>
 <br/>
