@@ -1,5 +1,6 @@
 #Formulaires
-#Disposition des champs :
+
+##Disposition des champs :
 
 ####Pas de `<br/>` !  
 
@@ -12,8 +13,8 @@ Ex :
 
 Devient :  
 `<p>`  
-    `<label for="comment">Pour laisser un commentaire libre à propos d'O'clock, c'est par ici :</label>`  
-    `<textarea placeholder="" name="comment" rows="8" cols="40"></textarea>`  
+`    <label for="comment">Pour laisser un commentaire libre à propos d'O'clock, c'est par ici :</label>`  
+`    <textarea placeholder="" name="comment" rows="8" cols="40"></textarea>`  
 `</p>`  
 `<p>`  
   `<input type="checkbox" name="certification" value="">`  
