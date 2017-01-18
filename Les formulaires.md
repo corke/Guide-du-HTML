@@ -11,14 +11,14 @@ Ex :
 `<label for="certification">Je certifie la véracité de ces informations.</label>`  
 
 Devient :  
-`<p>`
-     `<label for="comment">Pour laisser un commentaire libre à propos d'O'clock, c'est par ici :</label>`
-  `<textarea placeholder="" name="comment" rows="8" cols="40"></textarea>`
-`</p>`
-`<p>`
-  `<input type="checkbox" name="certification" value="">`
-  `<label for="certification">Je certifie la véracité de ces informations.</label>`
-`</p>`
+`<p>`  
+     `<label for="comment">Pour laisser un commentaire libre à propos d'O'clock, c'est par ici :</label>`  
+  `<textarea placeholder="" name="comment" rows="8" cols="40"></textarea>`  
+`</p>`  
+`<p>`  
+  `<input type="checkbox" name="certification" value="">`  
+  `<label for="certification">Je certifie la véracité de ces informations.</label>`  
+`</p>`  
 
 ##Les labels 
 &lt;label&gt; : Représentent le titre / désignation d'un élément du formulaire
