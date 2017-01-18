@@ -1,3 +1,13 @@
+#Formulaires
+#Disposition des champs :
+Pas de `<br/>` !
+Ex : 
+`<label for="comment">Pour laisser un commentaire libre à propos d'O'clock, c'est par ici :</label>
+<textarea placeholder="" name="comment" rows="8" cols="40"></textarea>
+<br/>
+<input type="checkbox" name="certification" value="">
+<label for="certification">Je certifie la véracité de ces informations.</label>`
+
 ##Les labels 
 &lt;label&gt; : Représentent le titre / désignation d'un élément du formulaire
 Fonctionnement / mécanisme : Permet lors du clic sur le label de prendre la main sur le champ lié comme si le clic 
