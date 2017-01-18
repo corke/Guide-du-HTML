@@ -1,5 +1,5 @@
 ##Les labels 
-&lt;label&gt : Représentent le titre / désignation d'un élément du formulaire
+&lt;label&gt; : Représentent le titre / désignation d'un élément du formulaire
 Fonctionnement / mécanisme : Permet lors du clic sur le label de prendre la main sur le champ lié comme si le clic 
 avait été fait sur l'élément du formulaire
 2 manière d'écrire les labels
