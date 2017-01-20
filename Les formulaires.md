@@ -20,6 +20,11 @@ Devient :
     `<input type="checkbox" name="certification" value="">`  
      `<label for="certification">Je certifie la véracité de ces informations.</label>`  
 `</p>`  
+Ou :
+`<label>
+  <input type="radio" name="civilite" value="2" checked />
+  Mme
+</label>`
 
 ##Les labels 
 &lt;label&gt; : Représentent le titre / désignation d'un élément du formulaire
