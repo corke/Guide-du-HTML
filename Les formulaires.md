@@ -20,7 +20,7 @@ Devient :
     `<input type="checkbox" name="certification" value="">`  
      `<label for="certification">Je certifie la véracité de ces informations.</label>`  
 `</p>`  
-Ou :
+Ou :  
 `<label>
   <input type="radio" name="civilite" value="2" checked />
   Mme
