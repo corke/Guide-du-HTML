@@ -12,6 +12,7 @@ Ex :
 `<label for="certification">Je certifie la véracité de ces informations.</label>`  
 
 Devient :  
+
 `<p>`  
     `<label for="comment">Pour laisser un commentaire libre à propos d'O'clock, c'est par ici :</label>`  
 `    <textarea placeholder="" name="comment" rows="8" cols="40"></textarea>`  
@@ -19,8 +20,10 @@ Devient :
 `<p>`  
     `<input type="checkbox" name="certification" value="">`  
      `<label for="certification">Je certifie la véracité de ces informations.</label>`  
-`</p>`  
+`</p>` 
+
 Ou :  
+
 `<label>
   <input type="radio" name="civilite" value="2" checked />
   Mme
