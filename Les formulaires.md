@@ -35,7 +35,7 @@ avait été fait sur l'élément du formulaire
 `<label>
 Titre de mon élément 
 <input type="text" name="mon_element" value="un element" id="id_du_champ"/>
-</label>`
+</label>`  
 Ici la méthode consiste a insérer le titre (le label) et le champ dans la balise <label> le parametre id n'est pas utilisé 
 
 `<label for="id_du_champ2">Titre de mon élément2</label>
